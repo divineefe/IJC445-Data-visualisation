@@ -6,17 +6,17 @@ All figures were produced in **R (ggplot2)** using ONS Business Demography data.
 
 ## Visualisations
 
-### Business births and deaths over time
-![Fig 1](figures/fig1_faceted_line.jpeg)
+### Figure 1: Business births and deaths over time
+![Faceted line chart](figures/fig1_faceted_line.jpeg)
 
-### Births vs deaths by year
-![Fig 2](figures/fig2_grouped_bar.jpeg)
+### Figure 2: Business births vs deaths by year
+![Grouped bar chart](figures/fig2_grouped_bar.jpeg)
 
-### Net business growth
-![Fig 3](figures/fig3_net_growth.jpeg)
+### Figure 3: Net business growth
+![Net growth line chart](figures/fig3_net_growth.jpeg)
 
-### Heatmap of business births and deaths
-![Fig 4](figures/fig4_heatmap.jpeg)
+### Figure 4: Heatmap of business births and deaths
+![Heatmap](figures/fig4_heatmap.jpeg)
 
 
 ## Repo contents
