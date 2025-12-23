@@ -5,7 +5,7 @@ Key messages: trends differ across regions; the West Midlands shows the greatest
 All figures were produced in **R (ggplot2)** using ONS Business Demography data.
 
 ## Composite visualisation
-![Composite visualisation](figures/composite.png)
+![Composite visualisation](figures/composite.jpeg)
 
 ## Repo contents
 - `code/ijc445_visualisations.R` – end-to-end script to load data and generate plots
